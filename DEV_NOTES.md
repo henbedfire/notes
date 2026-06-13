@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Cross-checked behaviour against spec
 - Tested build on clean environment
+
+## 2026-06-13
+- Pinned dependency versions for reproducibility
+- Fixed off-by-one error in loop
