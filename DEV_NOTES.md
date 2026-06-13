@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Pinned dependency versions for reproducibility
 - Fixed off-by-one error in loop
+
+## 2026-06-13
+- Drafted initial implementation plan for v2
